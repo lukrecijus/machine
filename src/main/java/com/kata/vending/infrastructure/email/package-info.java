@@ -1,0 +1,1 @@
+package com.kata.vending.infrastructure.email;
